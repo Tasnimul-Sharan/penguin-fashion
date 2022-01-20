@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:ital@1&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #FABE4C;
+}
+h2{
+    font-size: 48px;
+    color:#363958;
+}
+span{
+    color:#363958;
+}
+.navbar-brand{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.container-fluid{
+    margin: 80px;
+}
+.card img{
+    margin: 18px;
+    width:293px;
+    height:293px;
+    background-color: #F1F1F1;
+}
